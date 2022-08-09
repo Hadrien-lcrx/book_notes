@@ -1,5 +1,4 @@
 # Ignore all .ipynb checkpoints
-*.ipynb
 *.ipynb_checkpoints
 
 # Ignore Mac files
