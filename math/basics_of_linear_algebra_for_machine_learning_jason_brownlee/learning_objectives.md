@@ -1,0 +1,9 @@
+- Understand what vectors, matrices and tensors are
+- Understand their applications in data science and machine learning
+- Understand vector, matrix and tensor operations
+- Be able to read math equations for linear algebra
+- Be able to write math equations for linear algebra
+- Be able to implement linear algebra algorithms with Python and NumPy
+- Understand what eigenvectors and eigenvalues are
+- Understand eigenvectors and eigenvalues applications in data science and machine learning
+- Understand the linear algebra operations behind the linear regression least squares and line of best fit
