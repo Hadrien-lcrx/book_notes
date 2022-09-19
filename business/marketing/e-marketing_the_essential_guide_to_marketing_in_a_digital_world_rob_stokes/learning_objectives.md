@@ -1,0 +1,4 @@
+- How to define and distinguish business strategy and marketing strategy
+- How to think about digital audiences
+- The key building bloc concepts that are essential to any strategy
+- The questions that need to be asked when assembling a digital marketing strategy
