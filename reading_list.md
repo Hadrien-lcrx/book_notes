@@ -1,0 +1,13 @@
+- Basics of Linear Algebra for Machine Learning
+  - Read: up to Chapter 7 included
+  - Notes: up to Chapter 7 included
+- E-marketing - The Essential Guide to Marketing in a Digital World
+  - Read: up to Chapter 10 included
+  - Notes: None
+- A Mind Made for Numbers
+- Make it Stick
+- How to Become a Straight A Student
+- Thinking Fast and Slow
+- Or Noir
+- La Citadelle Intérieure
+- Pensée de Marc Aurèle
