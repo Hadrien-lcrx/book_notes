@@ -1,3 +1,4 @@
+## Personal learning objectives
 - Understand what vectors, matrices and tensors are
 - Understand their applications in data science and machine learning
 - Understand vector, matrix and tensor operations
@@ -15,3 +16,8 @@
 - Be able to write math equations for linear algebra
 - Be able to implement linear algebra algorithms with Python and NumPy
 - Be able to read, understand and reproduce  machine learning research papers
+
+### Book listed learning objectives
+- What a matrix is and how to define one in Python with NumPy
+- How to perform element-wise operations such as addition, subtraction and the Hadamard product
+- How to multiply matrices together and the intuition behind the operation

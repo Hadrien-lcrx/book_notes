@@ -1,6 +1,6 @@
 - Basics of Linear Algebra for Machine Learning
-  - Read: up to Chapter 7 included
-  - Notes: up to Chapter 7 included
+  - Read: up to Chapter 12 included
+  - Notes: up to Chapter 8 included
 - E-marketing - The Essential Guide to Marketing in a Digital World
   - Read: up to Chapter 10 included
   - Notes: None
