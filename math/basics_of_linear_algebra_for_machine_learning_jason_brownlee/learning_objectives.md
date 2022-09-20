@@ -18,6 +18,18 @@
 - Be able to read, understand and reproduce  machine learning research papers
 
 ### Book listed learning objectives
-- What a matrix is and how to define one in Python with NumPy
-- How to perform element-wise operations such as addition, subtraction and the Hadamard product
-- How to multiply matrices together and the intuition behind the operation
+
+
+- What a matrix is and how to define one in Python with NumPy (C9)
+- How to perform element-wise operations such as addition, subtraction and the Hadamard product (C9)
+- How to multiply matrices together and the intuition behind the operation (C9)
+- Define a square matrix (C10)
+- Define a symmetric matrix (C10)
+- Define a triangular matrix (C10)
+- Define a diagonal matrix (C10)
+- Define an identity matrix (C10)
+- Define an orthogonal matrix (C10)
+- Explain the effects of the matrix transpose operation (C11)
+- Explain the effects of the matrix inverse operation (C11)
+- Explain the effects of the trace operation (C11)
+- Explain the effects of the determinant operation (C11)
