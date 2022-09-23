@@ -18,8 +18,6 @@
 - Be able to read, understand and reproduce  machine learning research papers
 
 ### Book listed learning objectives
-
-
 - What a matrix is and how to define one in Python with NumPy (C9)
 - How to perform element-wise operations such as addition, subtraction and the Hadamard product (C9)
 - How to multiply matrices together and the intuition behind the operation (C9)

@@ -3,10 +3,13 @@
   - Notes: up to Chapter 10 included
 - E-marketing - The Essential Guide to Marketing in a Digital World
   - Read: up to Chapter 10 included
-  - Notes: Not started
+  - Notes: up to Chapter 1 included
 - A Mind Made for Numbers
   - Read: up to Chapter 4 included
   - Notes: Not started
+- How to Take Smart Notes
+  - Read: up to Chapter xx included
+  - Notes: not started
 - Make it Stick
 - How to Become a Straight A Student
 - Thinking Fast and Slow
