@@ -3,15 +3,17 @@
   - Notes: up to Chapter 10 included
 - E-marketing - The Essential Guide to Marketing in a Digital World
   - Read: up to Chapter 10 included
-  - Notes: up to Chapter 1 included
+  - Notes: up to Chapter 2 included
 - A Mind Made for Numbers
   - Read: up to Chapter 4 included
   - Notes: Not started
 - How to Take Smart Notes
   - Read: up to Chapter xx included
   - Notes: not started
-- Make it Stick
+- How to read a book
+- Deep Work
 - How to Become a Straight A Student
+- Make it Stick
 - Thinking Fast and Slow
 - Or Noir
 - La Citadelle Intérieure
